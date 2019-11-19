@@ -1,1 +1,1 @@
-<h2>Learning using APi</h2>
+<h2>Learning using API</h2>
